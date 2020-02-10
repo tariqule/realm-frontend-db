@@ -66,4 +66,4 @@ return currentUser; };
 
 ## Authors
 
-* **Tariqule Khan** - *Initial work* - [THK101](https://github.com/thk101)
+* **Tariqule Khan** - *Initial work* - [MyBee](https://github.com/mybeeapp)
