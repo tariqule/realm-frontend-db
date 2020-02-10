@@ -1,4 +1,4 @@
-# [Realm-FrontEnd-Database ](https://realm.io/products/realm-database)
+# [Realm FrontEnd Database ](https://realm.io/products/realm-database)
 
 ![realm.io](https://raw.githubusercontent.com/realm/realm-js/master/logo.png)
 
