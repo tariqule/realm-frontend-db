@@ -1,6 +1,6 @@
 # Realm-FrontEnd-Database 
 
-##Introduction on Realm for React-Native##
+## Introduction on Realm for React-Native ##
 
 **First make schema and make current user null**
 
