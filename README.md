@@ -1,5 +1,9 @@
 # Realm-FrontEnd-Database 
 
+# [Realm](https://realm.io/products/realm-database)
+
+![realm.io](https://raw.githubusercontent.com/realm/realm-js/master/logo.png)
+
 ## Introduction on Realm for React-Native ##
 
 **First make schema and make current user null**
