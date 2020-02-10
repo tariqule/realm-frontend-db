@@ -69,3 +69,5 @@ return currentUser; };
 ## Authors
 
 * **Tariqule Khan** - *Initial work* - [MyBee](https://github.com/mybeeapp)
+
+[Check out Realm.js](https://realm.io/products/realm-database)
